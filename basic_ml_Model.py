@@ -67,6 +67,8 @@ def main(n_estimators,max_depth):
         
         mlflow.log_metric("accuracy",accuracy)
         mlflow.log_metric("accuracy",rc_score)
+
+        mlflow.sklearn.log_model(rf,"Randomforest")
         
         
         #print(f"mean absolute error {mae}, mean squared error {mse}, root mean squared error {rmse}, r2_score {r2}")
