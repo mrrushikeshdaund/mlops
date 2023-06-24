@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Machine%20Learning%20Project/mlops/mlruns/0/ef409d8a43c5484388afa02009003e07/artifacts
+end_time: 1687089585626
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef409d8a43c5484388afa02009003e07
+run_name: glamorous-kite-123
+run_uuid: ef409d8a43c5484388afa02009003e07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687089585532
+status: 3
+tags: []
+user_id: Rushikesh-Daund
