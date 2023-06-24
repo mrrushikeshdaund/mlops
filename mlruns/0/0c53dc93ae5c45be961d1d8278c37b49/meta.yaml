@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Machine%20Learning%20Project/mlops/mlruns/0/0c53dc93ae5c45be961d1d8278c37b49/artifacts
+end_time: 1687607281721
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c53dc93ae5c45be961d1d8278c37b49
+run_name: grandiose-deer-861
+run_uuid: 0c53dc93ae5c45be961d1d8278c37b49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687607279267
+status: 3
+tags: []
+user_id: Rushikesh-Daund

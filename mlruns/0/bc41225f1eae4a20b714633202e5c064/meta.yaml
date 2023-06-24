@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Machine%20Learning%20Project/mlops/mlruns/0/bc41225f1eae4a20b714633202e5c064/artifacts
+end_time: 1687607251759
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bc41225f1eae4a20b714633202e5c064
+run_name: whimsical-mink-792
+run_uuid: bc41225f1eae4a20b714633202e5c064
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687607251172
+status: 3
+tags: []
+user_id: Rushikesh-Daund

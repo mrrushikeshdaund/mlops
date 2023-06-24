@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Machine%20Learning%20Project/mlops/mlruns/0/0ff9857a9e8547bc95cd9b87e9299db0/artifacts
+end_time: 1687607187246
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ff9857a9e8547bc95cd9b87e9299db0
+run_name: salty-newt-821
+run_uuid: 0ff9857a9e8547bc95cd9b87e9299db0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687607186582
+status: 4
+tags: []
+user_id: Rushikesh-Daund
