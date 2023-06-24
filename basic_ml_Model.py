@@ -32,6 +32,7 @@ def evaluate(y_true,y_pred):
     return mae,mse,rmse,r2"""
 
     accuracy = accuracy_score(y_true,y_pred)
+    roc_auc_score = roc_auc_score(accuracy)
     return accuracy
 
     
@@ -60,6 +61,8 @@ def main(estimators,max_depth):
     print(f"root Mean Squared error {r2}")"""
 
     accuracy = evaluate(y_test,pred)
+    mlflow.log_param("n_estimators",estimators)
+    mlflow.log_param("max depth",max_depth)
     print(accuracy)
 
 
